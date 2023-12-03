@@ -6,4 +6,3 @@ This project focuses on the classification of song genres based on lyrics using 
 - **Data Preprocessing**: Utilizes TF-IDF vectorization for converting song lyrics into numerical form. <br />
 - **Machine Learning Models**: Includes models like Naive Bayes, Logistic Regression, SVM, and Random Forest. 
 - **Evaluation Metrics**: Uses accuracy, macro avg, and weighted avg to evaluate model performance.
-- **Genre Analysis**: Offers insights into the most distinctive features of each genre through feature selection techniques.
